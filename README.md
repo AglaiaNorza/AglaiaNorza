@@ -1,4 +1,4 @@
-![alexanderplatz s-bahn](alexanderplatz_sbahn.jpeg)
+![s-bahn](s-bahn.JPG)
 <p align="center">"μνάσεσθαί τινά φαμι καὶ ἕτερον ἀμμέων"</p>
 <p align="center">someone will remember us / i say / even in another time</p>
 
