@@ -1,5 +1,5 @@
-<p align="right">interested in logic(s)!</p>
-<p align="right">i care about literature, cinema, collecting <a href="https://open.spotify.com/user/dtcvdixhmitdfl39jd4ulk239?si=3d522f035de842b2">music</a> and tea</p>
+<p align="right">interested in logic(s)! <br>
+i care about literature, cinema, collecting <a href="https://open.spotify.com/user/dtcvdixhmitdfl39jd4ulk239?si=3d522f035de842b2">music</a> and tea</p>
 
 ![s-bahn](s-bahn.JPG)
 
