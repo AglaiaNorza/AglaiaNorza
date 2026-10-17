@@ -1,4 +1,4 @@
-<p align="right">interested in logic(s) (computational and classical)<br>
+<p align="right">interested in logic(s) and formal methods<br>
 + literature, cinema, collecting <a href="https://open.spotify.com/user/dtcvdixhmitdfl39jd4ulk239?si=3d522f035de842b2">music</a> and tea !!</p>
 
 ![s-bahn](s-bahn.JPG)
